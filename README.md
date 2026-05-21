@@ -14,7 +14,7 @@
 
 Adapter for reading data from Brunner combustion control system EAS 3. The data is published via WLAN broadcast messages.
 
-If the connection to EAS 3 is lost, the combustion temperature is set to -99.
+If the connection to EAS 3 is lost, the combustion temperature is set to -99. 
 
 Burning states:
 * -1 - status not available, connection lost
